@@ -1,5 +1,13 @@
 # @melt-ui/svelte
 
+## 0.75.4
+
+### Patch Changes
+
+- fix: months not updating when changing options ([#1070](https://github.com/melt-ui/melt-ui/pull/1070))
+
+- fix: months not updating when changing options (range calendar) ([#1072](https://github.com/melt-ui/melt-ui/pull/1072))
+
 ## 0.75.3
 
 ### Patch Changes
